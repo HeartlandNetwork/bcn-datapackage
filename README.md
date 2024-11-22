@@ -1,8 +1,10 @@
 # bcn-datapackage
 
-Using NPSdataverse to create EML metadata and data package for 
-Chicagoland Bird Conservation Network dataset
+Preparing Chicagoland Bird Conservation Network (BCN) dataset for upload
+to NatureCounts - Birds Canada
 
 # Notes
 
-20241008 - Initial dataset review
+20241120 - review metadata against dataframe columns; dev QC script.
+
+
